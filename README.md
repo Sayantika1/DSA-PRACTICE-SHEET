@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0912-sort-an-array) |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0189-rotate-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
