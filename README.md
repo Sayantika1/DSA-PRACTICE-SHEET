@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0485-max-consecutive-ones) |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
