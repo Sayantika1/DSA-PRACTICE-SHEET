@@ -9,17 +9,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0912-sort-an-array) |
 ## Math
 |  |
@@ -58,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
