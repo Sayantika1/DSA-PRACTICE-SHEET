@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0169-majority-element) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
