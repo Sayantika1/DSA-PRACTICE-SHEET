@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0912-sort-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
