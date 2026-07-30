@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0054-spiral-matrix) |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
