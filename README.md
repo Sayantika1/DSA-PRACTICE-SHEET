@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0189-rotate-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0560-subarray-sum-equals-k) |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0035-search-insert-position) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
