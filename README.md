@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0704-binary-search) |
 ## Union-Find
 |  |
 | ------- |
