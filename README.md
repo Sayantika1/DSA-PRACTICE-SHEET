@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0540-single-element-in-a-sorted-array) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0128-longest-consecutive-sequence) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
