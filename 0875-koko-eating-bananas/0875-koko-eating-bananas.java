@@ -14,7 +14,7 @@ class Solution {
         {
             
             int mid = low + (high - low)/2;
-            ans = mid;
+            //ans = mid;
 
             long hours=0;
             for(int pile:piles)
