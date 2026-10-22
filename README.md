@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0410-split-array-largest-sum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sayantika1/DSA-PRACTICE-SHEET/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
